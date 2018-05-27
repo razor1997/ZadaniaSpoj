@@ -1,0 +1,7 @@
+C:\Users\Konrad\source\repos\Spoj\Spoj\obj\Debug\Spoj.csprojResolveAssemblyReference.cache
+C:\Users\Konrad\source\repos\Spoj\Spoj\obj\Debug\Spoj.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\source\repos\Spoj\Spoj\bin\Debug\Spoj.exe.config
+C:\Users\Konrad\source\repos\Spoj\Spoj\bin\Debug\Spoj.exe
+C:\Users\Konrad\source\repos\Spoj\Spoj\bin\Debug\Spoj.pdb
+C:\Users\Konrad\source\repos\Spoj\Spoj\obj\Debug\Spoj.exe
+C:\Users\Konrad\source\repos\Spoj\Spoj\obj\Debug\Spoj.pdb
